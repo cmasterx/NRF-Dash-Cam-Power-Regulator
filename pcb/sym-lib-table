@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DashCamp_Power_Regulator")(type "KiCad")(uri "${KIPRJMOD}/DashCamp_Power_Regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "ATL")(type "KiCad")(uri "${KIPRJMOD}/ATL-KiCad-Library/ATL.kicad_sym")(options "")(descr ""))
+)
